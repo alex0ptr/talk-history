@@ -42,5 +42,7 @@ You may find an incomplete selection of my slides at [speakerdeck](https://speak
 * [cosee TechTalks](https://talks.cosee.biz/)
 * [JUG Mannheim](http://www.majug.de/)
 * [JUG Mainz](https://www.jug-mz.de/#/)
+* [Cloud Native Night](https://www.meetup.com/de-DE/Cloud-Native-Night/)
+* [Objektforum Stuttgart](https://www.andrena.de/objektforum-stuttgart)
 
 
