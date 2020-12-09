@@ -12,6 +12,11 @@ You may find an incomplete selection of my slides at [speakerdeck](https://speak
 
 ## Conferences
 
+### 2020
+
+* [heise devSec()](https://www.heise-devsec.de), _Cloud Compliance mit Open Policy Agent_
+* [w-jax](https://jax.de/muenchen/), _Cloud Compliance mit Open Policy Agent_
+* [Virtual Cloud Native Summit](https://info.d2iq.com/20-04-01-d2iq-virtual-summit-registration.html), _Cloud Compliance with Open Policy Agent_
 ### 2019
 
 * [CODE DAYS](https://www.code-days.de/), _Reaktive Programmierung in verständlichen Worten_
@@ -38,11 +43,10 @@ You may find an incomplete selection of my slides at [speakerdeck](https://speak
 
 ## Other events I talked at...
 
-* [MNI Hack a day](https://hackaday.mni.thm.de/)
 * [cosee TechTalks](https://talks.cosee.biz/)
+* [MNI Hack a day](https://hackaday.mni.thm.de/)
 * [JUG Mannheim](http://www.majug.de/)
 * [JUG Mainz](https://www.jug-mz.de/#/)
 * [Cloud Native Night](https://www.meetup.com/de-DE/Cloud-Native-Night/)
 * [Objektforum Stuttgart](https://www.andrena.de/objektforum-stuttgart)
-
-
+* [Cloud Native Night Munich](https://www.meetup.com/de-DE/cloud-native-muc/)
