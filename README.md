@@ -10,6 +10,7 @@ You may find an incomplete selection of my slides at [speakerdeck](https://speak
 ## Articles
 * [heise Developer](https://www.heise.de/developer), _[AWS Fargate: Container-Orchestrierung ohne Cluster](http://bit.ly/2LdjHVL)_
 * [heise online](https://www.heise.de), _[Cloud Native News 2020](https://www.heise.de/hintergrund/Cloud-Native-News-2020-Ein-Jahresrueckblick-5020297.html?seite=all)_
+* [ix Developer](https://www.heise.de), _[Cloud Compliance mit Open Policy Agent](https://shop.heise.de/bundle-ix-developer-sichere-software-entwickeln-2021-heft-pdf)_
 
 ## Conferences
 
