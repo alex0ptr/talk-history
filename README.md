@@ -18,6 +18,10 @@ You may find an incomplete selection of my slides at [speakerdeck](https://speak
 
 ## Conferences
 
+### 2023
+
+* [CloudLand](https://www.cloudland.org/en/home/), Co-Speaker: [Robert Hoffmann](https://twitter.com/robhoffmax), _Make developers fly: Principles for platform engineering_
+
 ### 2022
 
 * [CloudLand](https://www.cloudland.org/en/home/), Workshop (Co-Speaker): Cloud Native Experience Lab
